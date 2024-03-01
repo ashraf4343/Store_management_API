@@ -66,7 +66,7 @@ MySQL Connector Java
 These dependencies are managed via Apache Maven. You can find the dependencies listed in the pom.xml file.
 
 Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps
 
 Fork the repository.
 Create a new branch (git checkout -b feature).
