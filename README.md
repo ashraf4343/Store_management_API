@@ -37,9 +37,17 @@ To set up and run the Store Management API project in Spring Tool Suite (STS), f
 
 ## 1. Clone the Repository:
 
+# Getting Started with Spring Tool Suite (STS)
+
+To set up and run the Store Management API project in Spring Tool Suite (STS), follow these steps:
+
+## 1. Clone the Repository:
+
 ```bash
 git clone https://github.com/ashraf4343/Store_management_API.git
-2. Import the Project into Spring Tool Suite:
+
+
+## 2. Import the Project into Spring Tool Suite:
 Open Spring Tool Suite.
 Click on File > Import.
 Choose Existing Maven Projects.
