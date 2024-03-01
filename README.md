@@ -27,36 +27,38 @@ Before you begin, ensure you have met the following requirements:
 
 To set up and run the Store Management API project in Spring Tool Suite (STS), follow these steps:
 
-1. **Clone the Repository**:
+# Getting Started with Spring Tool Suite (STS)
 
-   ```bash
-   git clone https://github.com/ashraf4343/Store_management_API.git
+To set up and run the Store Management API project in Spring Tool Suite (STS), follow these steps:
 
-2. **Import the Project into Spring Tool Suite:
+# Getting Started with Spring Tool Suite (STS)
 
+To set up and run the Store Management API project in Spring Tool Suite (STS), follow these steps:
+
+## 1. Clone the Repository:
+
+```bash
+git clone https://github.com/ashraf4343/Store_management_API.git
+2. Import the Project into Spring Tool Suite:
 Open Spring Tool Suite.
 Click on File > Import.
 Choose Existing Maven Projects.
 Navigate to the directory where you cloned the repository and select the project folder.
 Click Finish to import the project.
-Configure Database Connection:
-
+3. Configure Database Connection:
 Open the application.properties file located in the src/main/resources directory.
-
 Update the following properties with your MySQL database configurations:
-
 properties
 Copy code
 spring.datasource.url=jdbc:mysql://localhost:3306/store_shop
 spring.datasource.username=<your_username>
 spring.datasource.password=<your_password>
-Build and Run the Application:
-
+4. Build and Run the Application:
 Right-click on the project in STS.
 Choose Run As > Spring Boot App.
-Access the API:
-
+5. Access the API:
 Once the application is running, you can use any RESTful client (such as Postman) to interact with the API endpoints.
+
 Dependencies
 This project uses the following dependencies:
 
@@ -66,7 +68,7 @@ MySQL Connector Java
 These dependencies are managed via Apache Maven. You can find the dependencies listed in the pom.xml file.
 
 Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 Fork the repository.
 Create a new branch (git checkout -b feature).
